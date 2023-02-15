@@ -10,9 +10,9 @@ import com.rabbitmq.client.ConnectionFactory;
  */
 
 public  class MqConfig {
-    public static   String rabbitmqHost="47.107.65.114";
-    public static   String username="dev_guo";
-    public static   String password="gqa123";
+    public static   String rabbitmqHost="47.***.65.***";
+    public static   String username="***";
+    public static   String password="***";
     public static Channel getChannel(){
         // 1: 创建连接工厂
         ConnectionFactory connectionFactory = new ConnectionFactory();
