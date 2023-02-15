@@ -11,6 +11,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * 延迟队列插件
  * @Author: dev_guo
  * @Date: 2023/2/10 14:39
  */

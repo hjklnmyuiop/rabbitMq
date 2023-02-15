@@ -9,7 +9,7 @@ import com.rabbitmq.client.ConnectionFactory;
  * @Date: 2023/1/10 13:47
  */
 
-public  class MqConfig {
+public  class MqConfig_bk {
     public static   String rabbitmqHost="47.***.65.***";
     public static   String username="***";
     public static   String password="***";

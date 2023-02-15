@@ -8,6 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * 死信队列
  * @Author: dev_guo
  * @Date: 2023/2/7 18:16
  */
